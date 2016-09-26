@@ -2,6 +2,11 @@
 FastaHeaderAppender
 Adam Jones (ajones@bio.tamu.edu)
 
+FILES INCLUDED:
+FastaHeaderAppender: 64-bit Ubuntu executable (no extension)
+FastaHeaderAppender.exe: Windows executable (.exe extension)
+FastaHeaderAppender.cpp: C++ source code
+
 This program simply adds some text to the end of each header in
 a fasta file.  The program can also replace spaces in the header
 with underscores.

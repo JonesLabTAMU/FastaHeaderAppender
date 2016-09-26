@@ -3,7 +3,7 @@ FastaHeaderAppender
 Adam Jones (ajones@bio.tamu.edu)
 
 FILES INCLUDED:
-FastaHeaderAppender: 64-bit Ubuntu executable (no extension),
+<p>FastaHeaderAppender: 64-bit Ubuntu executable (no extension)</p>
 FastaHeaderAppender.exe: Windows executable (.exe extension),
 FastaHeaderAppender.cpp: C++ source code
 

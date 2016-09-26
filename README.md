@@ -3,6 +3,7 @@ FastaHeaderAppender
 Adam Jones (ajones@bio.tamu.edu)
 
 FILES INCLUDED:
+
 FastaHeaderAppender: 64-bit Ubuntu executable (no extension)
 
 FastaHeaderAppender.exe: Windows executable (.exe extension)
